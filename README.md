@@ -12,12 +12,6 @@ It refers to reducing the number of colors used to represent an image. We color 
 5.  Recompute the Mean of each Centroid
 6.  Paint the image with the Mu value of each Cluster to the corresponding pixel value.
 
-<p align="center">
-  <br><br>
-  <img src="baboon.jpg" align = "center" width = 300>
-  <figcaption><p align="center">Hello</p></figcaption>
-</p>
-
 ## Example :
 We consider an image as below and apply the program on this image to color the image with 3, 5, 10 and 20 colors.
 
