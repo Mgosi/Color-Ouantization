@@ -1,5 +1,5 @@
 # Color-Quantization using K-Means
-Coloring an image with 'K' Colors using K-Means Coloring. Here we implement K-Means Clustering by using only basic Numpy operations and opencv.imread() to perform Color Quantization on an Image. 
+Coloring an image with 'K' Colors using K-Means Coloring. Here we implement K-Means Clustering by using only basic Numpy operations.
 
 ## Color Quantization Definition :
 It refers to reducing the number of colors used to represent an image. We color the image in 'k' number of colors by using K-Means Clustering. 
